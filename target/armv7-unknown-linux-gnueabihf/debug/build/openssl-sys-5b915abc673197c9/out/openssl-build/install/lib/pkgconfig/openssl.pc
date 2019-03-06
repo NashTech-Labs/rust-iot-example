@@ -1,0 +1,9 @@
+prefix=/home/knoldus/mudit/Blog/factorial/target/armv7-unknown-linux-gnueabihf/debug/build/openssl-sys-5b915abc673197c9/out/openssl-build/install
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: OpenSSL
+Description: Secure Sockets Layer and cryptography libraries and tools
+Version: 1.1.1a
+Requires: libssl libcrypto

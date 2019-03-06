@@ -1,0 +1,10 @@
+crypto/asn1/a_int.c: In function 'asn1_string_get_int64':
+crypto/asn1/a_int.c:260:19: warning: 'r' may be used uninitialized in this function [-Wmaybe-uninitialized]
+         } else if (r == ABS_INT64_MIN) {
+                   ^
+crypto/asn1/a_int.c:252:14: note: 'r' was declared here
+     uint64_t r;
+              ^
+arm-linux-gnueabihf-ar: creating apps/libapps.a
+arm-linux-gnueabihf-ar: creating libcrypto.a
+arm-linux-gnueabihf-ar: creating libssl.a

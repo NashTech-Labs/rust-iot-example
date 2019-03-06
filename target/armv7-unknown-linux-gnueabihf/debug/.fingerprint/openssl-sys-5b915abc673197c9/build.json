@@ -1,0 +1,1 @@
+{"rustc":14715343205281380114,"features":"","target":0,"profile":0,"path":0,"deps":[],"local":[{"EnvBased":["ARMV7_UNKNOWN_LINUX_GNUEABIHF_OPENSSL_LIBS",null]},{"EnvBased":["OPENSSL_LIBS",null]},{"EnvBased":["ARMV7_UNKNOWN_LINUX_GNUEABIHF_OPENSSL_STATIC",null]},{"EnvBased":["OPENSSL_STATIC",null]}],"rustflags":[],"edition":"Edition2015"}

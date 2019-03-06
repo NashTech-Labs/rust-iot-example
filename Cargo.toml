@@ -1,0 +1,9 @@
+[package]
+name = "factorial"
+version = "0.1.0"
+authors = ["mudit <mudit.chhabra@knoldus.in>"]
+edition = "2018"
+
+[dependencies]
+openssl = { version = "0.10", features = ["vendored"] }
+

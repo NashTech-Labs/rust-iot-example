@@ -1,0 +1,1 @@
+{"rustc":14715343205281380114,"features":"[\"openssl-src\", \"vendored\"]","target":14274173748255348564,"profile":11870183705523825133,"path":11568609332211820464,"deps":[["libc v0.2.49","libc",9539088751911526371]],"local":[{"Precalculated":"0.9.42"}],"rustflags":[],"edition":"Edition2015"}
